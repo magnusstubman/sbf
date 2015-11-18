@@ -1,0 +1,19 @@
+{
+  "name": "sbf",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "express": "^4.13.3",
+    "hogan.js": "^3.0.2",
+    "monotonic-timestamp": "0.0.9",
+    "node-radamsa": "^0.2.0",
+    "single-line-log": "^1.0.1"
+  }
+}
